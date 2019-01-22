@@ -19,8 +19,8 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper](https://github.com/asherAgs/amzSear)
 
 ### [Amazon S3](https://aws.amazon.com/s3/) - Cloud storage
-- [API Documentation](https://github.com/kennethreitz/bucketstore)
-- [Python wrapper](https://aws.amazon.com/documentation/s3/)
+- [API Documentation](https://aws.amazon.com/documentation/s3/)
+- [Python wrapper](https://github.com/kennethreitz/bucketstore)
 
 ### [AWS](http://aws.amazon.com) - Cloud computing platform
 - [API Documentation](http://aws.amazon.com/documentation/)
@@ -33,6 +33,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [American Fuzzy Lop / AFL](http://lcamtuf.coredump.cx/afl/) - Fuzzer that employs genetic algorithms in order to efficiently increase code coverage of the test cases
 - [API Documentation](http://lcamtuf.coredump.cx/afl/)
 - [Python wrapper](https://github.com/shellphish/fuzzer)
+
+### [Archive.is](http://archive.is/) - time capsule for web pages
+- [API Documentation](http://mementoweb.org/depot/native/archiveis/)
+- [Python wrapper](https://github.com/pastpages/archiveis)
 
 ### [Archive.org](http://archive.org/) - Internet Archive
 - [API Documentation](http://archive.org/help/json.php)
@@ -62,6 +66,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Azure](https://azure.microsoft.com/) - Cloud computing platform
 - [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
 - [Python wrapper](https://github.com/Azure/azure-sdk-for-python)
+
+### [Backblaze](https://www.backblaze.com/) - cloud backup and storage provider
+- [API Documentation](https://www.backblaze.com/b2/docs/)
+- [Python wrapper](https://github.com/sibblegp/b2blaze)
 
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
@@ -119,6 +127,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://coinbase.com/api/doc.html)
 - [Python wrapper for Coinbase](https://github.com/sibblegp/coinbase_python)
 
+### [CoinPayments](https://www.coinpayments.net/) - checkout system for cryptocurrencies
+- [API Documentation](https://www.coinpayments.net/apidoc)
+- [Python wrapper](https://github.com/DogFive/pyCoinPayments)
+
 ### [Craigslist](http://www.craigslist.org/) - Classified advertisements
 - [API Documentation](https://github.com/juliomalegria/python-craigslist)
 - [Python wrapper](https://github.com/juliomalegria/python-craigslist)
@@ -130,6 +142,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Discogs](http://www.discogs.com) - Marketplace for Music on Vinyl, CD..
 - [API Documentation](http://www.discogs.com/developers/)
 - [Python wrapper for Discogs](https://github.com/discogs/discogs_client)
+
+### [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers
+- [API Documentation](https://discordapp.com/developers)
+- [Python wrapper for Discord](https://github.com/Rapptz/discord.py)
 
 ### [Discourse](http://www.discourse.org/) - Civilized discussion
 - [API Documentation](https://meta.discourse.org/t/discourse-api-documentation/22706)
@@ -196,6 +212,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.fullcontact.com/developer/)
 - [Python wrapper for FullContact](https://github.com/garbados/fullcontact.py)
 
+### [Genius](http://genius.com/) - Song lyrics and annotations
+- [API Documentation](https://docs.genius.com/)
+- [Python wrapper for Genius](https://github.com/johnwmillr/LyricsGenius)
+
 ### [Geocodio](https://geocod.io/) - Ridiculously affordable geocoding
 - [API Documentation](https://geocod.io/docs/)
 - [Python wrapper for Geocodio](https://github.com/bennylope/pygeocodio)
@@ -212,7 +232,11 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://docs.gitlab.com/ce/api/)
 - [Python wrapper for Gitlab](https://github.com/gpocentek/python-gitlab)
 
-### [Google Charts](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices.
+### [Gmail](https://developers.google.com/gmail/) -  Web-based e-mail service
+- [API Documentation](https://developers.google.com/gmail/api/)
+- [Python wrapper](https://pypi.org/project/EZGmail/)
+
+### [Google Charts](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices
 - [API Documentation](https://developers.google.com/chart/interactive/docs/)
 - [Python wrapper](https://github.com/Dfenestrator/GooPyCharts)
 
@@ -244,6 +268,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://cloud.google.com/translate/docs)
 - [Python wrapper for Google Translate](http://py-googletrans.readthedocs.org/en/latest/googletrans.html)
 
+### [GoPro](https://gopro.com) - cameras
+- [API Documentation](https://github.com/konradit/gopro-py-api)
+- [Python wrapper](https://github.com/konradit/gopro-py-api)
+
 ### [Hacker News](https://news.ycombinator.com/) - Social News
 - [API Documentation](https://github.com/HackerNews/API)
 - [Python wrapper for Hacker News](https://github.com/avinassh/haxor/)
@@ -263,6 +291,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [HipChat](https://www.hipchat.com/) - Hosted group chat and IM
 - [API Documentation](https://www.hipchat.com/docs/api)
 - [Python wrapper for HipChat](https://github.com/dobarkod/hipchat-api)
+
+### [IEX](https://iextrading.com/) - Real-time and historical stock prices
+- [API Documentation](https://iextrading.com/developer/docs)
+- [Python wrapper for IEX](https://github.com/addisonlynch/iexfinance)
 
 ### [iFixit](http://www.ifixit.com/) - The free repair manual
 - [API Documentation](https://www.ifixit.com/api/2.0/doc)
@@ -357,6 +389,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://data.nasa.gov/developer)
 - [Python wrapper for NASA](https://github.com/emirozer/bowshock)
 
+### [NBA Stats](https://stats.nba.com/) - NBA Advanced Stats
+- [API Documentation](https://github.com/swar/nba_api/blob/master/docs/table_of_contents.md)
+- [Python wrapper](https://github.com/swar/nba_api)
+
 ### [Netflix](http://www.netflix.com/) - On-demand streaming media
 - [API Documentation](http://developer.netflix.com/)
 - [Python wrapper for Netflix](https://github.com/jcopenha/pyflix)
@@ -370,8 +406,8 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper](https://github.com/davidcox143/nytimesarchive)
 
 ### [News API](https://newsapi.org/) - JSON API for live news and blog headlines
-- [API Documentation](https://newsapi.org/#documentation)
-- [Python wrapper](https://github.com/SlapBot/newsapi)
+- [API Documentation](https://newsapi.org/docs)
+- [Python wrapper](https://github.com/mattlisiv/newsapi-python)
 
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
@@ -385,6 +421,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.pagerduty.com/documentation/integration/events)
 - [Python Wrapper for PagerDuty](https://github.com/dropbox/pygerduty)
 
+### [Peercoin](https://peercoin.net) - Open source P2P money
+- [API Documentation](https://docs.peercoin.net/#/json-rpc-api-reference)
+- [JSON-RPC API Python wrapper](https://github.com/peercoin/peercoin_rpc)
+
 ### [Pinterest](http://pinterest.com/) - Pinboard-style sharing
 - [API Documentation](http://developers.pinterest.com/)
 - [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
@@ -397,6 +437,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.phaxio.com/docs)
 - [Python wrapper for Phaxio](https://github.com/phaxio)
 
+### [Phish.AI](https://www.phish.ai/) - Detect zero-day phishing websites
+- [API Documentation](https://app.phish.ai/#/documentation)
+- [Python wrapper](https://github.com/phishai/phish-ai-api)
+
 ### [Photobucket](http://photobucket.com/) - Image hosting and video
 - [API Documentation](http://developer.photobucket.com/)
 - [Python wrapper for Photobucket](https://github.com/czpython/python-photobucket)
@@ -405,28 +449,25 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://plot.ly/api/)
 - [Python wrapper for Plot.ly](https://plot.ly/api/python/)
 
-### [Pokémon GO API](https://github.com/Mila432/Pokemon_Go_API) - Pokemon!
-- [Python wrapper](https://github.com/Mila432/Pokemon_Go_API)
-
 ### [Polar Devices](http://www.polar.com) - Watches and devices
 - [API Documentation](http://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
+
+### [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) - database of medical publications
+- [API Documentation](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/)
+- [Python wrapper](https://github.com/gijswobben/pymed)
 
 ### [Rackspace](http://www.rackspace.com/) - Open cloud company
 - [API Documentation](http://docs.rackspace.com/sdks/guide/content/python.html)
 - [Python wrapper for the Rackspace Cloud](https://github.com/rackspace/pyrax)
 
-### [Reddit](http://www.reddit.com/) - Search engine for blogs
+### [Reddit](http://www.reddit.com/) - Social news aggregation and discussion
 - [API Documentation](http://www.reddit.com/dev/api)
 - [Python wrapper for Reddit](https://github.com/praw-dev/praw/)
 
 ### [RottenTomatoes](http://rottentomatoes.com/) - Film review aggregator
 - [API Documentation](http://developer.rottentomatoes.com/)
 - [Python wrapper for Rotten Tomatoes](https://github.com/zachwill/rottentomatoes)
-
-### [Robinhood](https://www.robinhood.com/) - Free stock trading
-- [API Documentation](https://support.robinhood.com/hc/en-us/articles/203585145-Robinhood-API)
-- [Python wrapper for Robinhood](https://github.com/benkroop/robinhood)
 
 ### [Salesforce](http://www.salesforce.com/) - Cloud computing company (CRM)
 - [API Documentation](http://www.salesforce.com/us/developer/docs/api/index.htm)
@@ -443,6 +484,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Scrapinghub](http://scrapinghub.com/) - Scraping services
 - [API Documentation](http://doc.scrapinghub.com/api.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
+
+### [SendGrid](https://sendgrid.com/) - Email API for developers
+- [API Documentation](https://sendgrid.com/docs/for-developers/sending-email/api-getting-started/)
+- [Python wrapper](https://github.com/sendgrid/sendgrid-python)
 
 ### [Skyscanner](http://www.skyscanner.net/) - Travel metasearch
 - [API Documentation](http://business.skyscanner.net/portal/en-GB/Documentation/ApiOverview)
@@ -471,9 +516,13 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developers.soundcloud.com/)
 - [Python wrapper for Soundcloud](https://github.com/soundcloud/soundcloud-python)
 
+### [Sportradar](https://developer.sportradar.com/) - Broad range of sports APIs
+- [API Documentation](https://developer.sportradar.com/io-docs)
+- [Python wrapper for Sportradar](https://github.com/johnwmillr/SportradarAPIs)
+
 ### [Spotify](https://spotify.com/) - Music streaming service
-- [API Documentation](https://developer.spotify.com/)
-- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/1.2)
+- [API Documentation](https://developer.spotify.com/documentation/)
+- [Python wrapper for Spotify](https://github.com/plamere/spotipy)
 
 ### [Spreedly](https://spreedly.com/) - Cloud based credit card vault
 - [API Documentation](https://core.spreedly.com/manual/quickstart)
@@ -801,6 +850,10 @@ Info Date   | 2014/12/20
 - [API Documentation](https://www.udacity.com/catalog-api)
 - [Python wrapper for Udacity](https://github.com/tylucaskelley/udacity-api-python)
 
+### [Udemy](https://www.udemy.com) - Online University
+- [API Documentation](https://www.udemy.com/developers/)
+- [Python wrapper for Udemy](https://github.com/hudsonbrendon/pyudemy)
+
 ### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
 - [API Documentation](http://unirest.io/#python)
 - [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
@@ -836,7 +889,8 @@ Info Date   | 2014/12/20
 
 ### [Wikipedia](http://www.wikipedia.org/) - Wikipedia
 - [API Documentation](http://www.mediawiki.org/wiki/API)
-- [Python wrapper for Wikipedia](http://github.com/goldsmith/Wikipedia)
+- [Python wrapper 1](http://github.com/goldsmith/Wikipedia)
+- [Python wrapper 2](https://github.com/martin-majlis/Wikipedia-API/)
 
 ### [Windows Azure](http://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
